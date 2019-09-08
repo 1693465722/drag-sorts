@@ -4,7 +4,7 @@
 
 <p align="center"> <img  src='https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/2f5c67e0-a63d-11e9-8af4-0d2fdd21a382_0.png' width='50%'> </p>
 
-
+####    [ uni-app 插件市场链接 ](https://ext.dcloud.net.cn/plugin?id=582)
 
 * 属性
 >
